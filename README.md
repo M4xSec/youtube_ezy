@@ -1,4 +1,4 @@
-<h1>Infection 💀</h1>
+<h1>YouTube_ezy: Youtube MP4 & MP3 Downloader 💀</h1>
 <center><a href="https://github.com/predator0x300/youtube_ezy"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a></center>
 <p align="center">
   <b> Follow on Social Media Platforms </b>
